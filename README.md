@@ -1,3 +1,3 @@
-# machine-learning-checklist
+# Machine Learning Checklist
 
-The Machine Leanring Checklist has all the things you need to do as a Machine Learning Esngineer
+The Machine Learning Checklist has all the things you need to do as a Machine Learning Engineer
